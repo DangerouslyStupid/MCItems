@@ -1,8 +1,1 @@
-Executeables:
-
-app_pojavlauncher/src/main/jniLibs
-
-
-IDK:
-
-app_pojavlauncher/src/main/jni/GL
+DEATLEAT all in jni other then GL
